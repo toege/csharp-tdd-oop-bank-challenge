@@ -10,7 +10,7 @@
 - Fork this repository and clone the forked version to your machine
 - Open the Boolean.sln
 
-It's time to flex your programming skills. There are no classes or tests included in this repository to get you started, but you will find the usual `../java/com/booleanuk/core` directories to place your classes and tests in.
+It's time to flex your programming skills. There are no classes or tests included in this repository to get you started, but you will find the usual `./Boolean.CSharp.Main` directories to place your classes and `./Boolean.CSharp.Test` tests in.
 
 Your task is to use everything you've learned to build a small banking application.
 
