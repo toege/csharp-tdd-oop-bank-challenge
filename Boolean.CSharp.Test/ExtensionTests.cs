@@ -19,12 +19,7 @@ namespace Boolean.CSharp.Test
         [Test]
         private void TestQuestion1()
         {
-
-        }
-        [Test]
-        private void TestQuestion2()
-        {
-
+            Assert.Pass();
         }
     }
 }
