@@ -8,6 +8,11 @@ namespace Boolean.CSharp.Main
 {
     public class Core
     {
+        public Core() 
+        { 
+            Bank bank = new Bank();
+        }
+
 
 
     }
